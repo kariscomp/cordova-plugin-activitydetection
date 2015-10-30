@@ -17,7 +17,6 @@
     
     <!-- android -->
     <platform name="android">
-      <dependency id="com.google.playservices" />
       
       <feature name="ActivityDetectionPlugin">
           <param name="android-package" value="org.seeingidog.activitydetection.ActivityDetectionPlugin" />
